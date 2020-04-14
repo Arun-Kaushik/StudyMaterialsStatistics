@@ -1,2 +1,2 @@
 # StudyMaterialsStatistics
-This is the repository cntaing study material for Statistics.
+This is the repository containg study material for Statistics from Ctanujit.com, NPTEL etc.
